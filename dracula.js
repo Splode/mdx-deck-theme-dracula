@@ -1,5 +1,6 @@
 const colors = {
   background: '#21222C',
+  cyan: '#8be9fd',
   foreground: '#f8f8f2',
   green: '#50fa7b',
   purple: '#bd93f9',
@@ -18,9 +19,14 @@ export default {
     primary: colors.foreground
   },
   styles: {
-    // root: {
-    //   textAlign: 'left'
-    // },
+    root: {
+      lineHeight: '1.5'
+    },
+    blockquote: {
+      color: colors.cyan,
+      fontSize: '3rem',
+      fontStyle: 'italic'
+    },
     h1: { color: colors.purple },
     h2: { color: colors.green },
     pre: {
@@ -30,9 +36,7 @@ export default {
       padding: '1em'
     },
     Slide: {
-      // display: 'block',
       padding: '2em'
-      // textAlign: 'left'
     },
     Split: { textAlign: 'left' }
   }
