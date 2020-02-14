@@ -3,6 +3,7 @@ const colors = {
   cyan: '#8be9fd',
   foreground: '#f8f8f2',
   green: '#50fa7b',
+  pink: '#ff79c6',
   purple: '#bd93f9',
   selection: '#282a36'
 }
@@ -19,9 +20,7 @@ export default {
     primary: colors.foreground
   },
   styles: {
-    root: {
-      lineHeight: '1.5'
-    },
+    root: { lineHeight: '1.5' },
     blockquote: {
       color: colors.cyan,
       fontSize: '3rem',
@@ -29,6 +28,8 @@ export default {
     },
     h1: { color: colors.purple },
     h2: { color: colors.green },
+    h3: { color: colors.pink },
+    ol: { textAlign: 'left' },
     pre: {
       backgroundColor: colors.selection,
       borderRadius: '4px',
@@ -36,7 +37,8 @@ export default {
       padding: '1em'
     },
     Slide: {
-      padding: '2em'
+      padding: '2em',
+      textAlign: 'center'
     },
     Split: { textAlign: 'left' }
   }
