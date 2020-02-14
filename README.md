@@ -1,5 +1,7 @@
 # Dracula `mdx-deck` theme
 
+![Dracula theme preview](./github/../mdx-deck-theme-dracula-preview--1200.jpg)
+
 A [Dracula](https://github.com/dracula/dracula-theme/) theme for [mdx-deck](https://github.com/jxnblk/mdx-deck).
 
 ## Usage
