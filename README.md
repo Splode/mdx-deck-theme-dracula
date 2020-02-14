@@ -1,6 +1,6 @@
 # Dracula `mdx-deck` theme
 
-![Dracula theme preview](./github/../mdx-deck-theme-dracula-preview--1200.jpg)
+<img alt="Dracula mdx-theme preview image" src="./.github/mdx-deck-theme-dracula-preview--1200x600.png">
 
 A [Dracula](https://github.com/dracula/dracula-theme/) theme for [mdx-deck](https://github.com/jxnblk/mdx-deck).
 
