@@ -21,6 +21,8 @@ export const theme = dracula
 
 ## Contributing
 
+Feel free to contribute. See [contributing guidelines](CONTRIBUTING.md) for more info.
+
 ## Author
 
 [Christopher Murphy](https://github.com/Splode)
